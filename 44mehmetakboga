@@ -1,0 +1,201 @@
+               Apache Lisansı
+                           Sürüm 2.0, Ocak 2004
+                        http://www.apache.org/licenses/
+
+   KULLANIM, ÜRETİM VE DAĞITIM İÇİN ŞART VE KOŞULLAR
+
+   1. Tanımlar.
+
+      "Lisans" kullanım şartları, çoğaltılması için şartlar ve koşulları ifade eder.
+      ve bu belgenin 1 ile 9 arasındaki bölümleri ile tanımlanan dağıtım.
+
+      "Lisans Veren", telif hakkı sahibi veya yetkili
+      Lisansı veren telif hakkı sahibi.
+
+      "Tüzel Kişilik", oyunculuk kuruluşunun ve bütününün birliği anlamına gelir.
+      kontrol eden, kontrol edilen veya ortak olan diğer varlıklar
+      o varlıkla kontrol edin. Bu tanımın amaçları doğrultusunda,
+      "kontrol", (i) doğrudan veya dolaylı,
+      sözleşmeyle olsun ya da olmasın
+      aksi halde veya (ii) yüzde elli (% 50) veya daha fazla sahiplik
+      ödenmemiş hisseler veya (iii) bu tür bir varlığın faydası.
+
+      "Siz" (veya "Sizin") bir birey veya Tüzel Kişilik anlamına gelir
+      bu Lisans tarafından verilen izinleri kullanma.
+
+      "Kaynak" formu, değişiklik yapmak için tercih edilen form anlamına gelecektir.
+      yazılım kaynak kodu dahil olmak üzere ancak bunlarla sınırlı olmamak kaydıyla dokümantasyon
+      kaynak ve yapılandırma dosyaları.
+
+      "Nesne" formu, mekanik nedenlerden kaynaklanan herhangi bir form anlamına gelecektir.
+      ama dahil olmak üzere bir Kaynak formunun dönüştürülmesi veya çevirisi
+      derlenmiş nesne koduyla sınırlı değil, oluşturulan belgeler,
+      ve diğer medya türlerine dönüşümler.
+
+      “İş”, Kaynakta olsun ya da olmasın yazarlık eseri anlamına gelir.
+      Lisansla birlikte sunulan nesne formu, bir
+      çalışmaya dahil olan veya ona iliştirilmiş telif hakkı bildirimi
+      (Aşağıdaki ekte bir örnek verilmiştir).
+
+      "Türev Çalışmaları" Kaynak veya Nesne'de olsun, herhangi bir işi ifade eder.
+      form, esere dayanan (veya ondan türeyen) ve
+      editoryal revizyonlar, ek açıklamalar, detaylandırmalar veya diğer değişiklikler
+      Bir bütün olarak, özgün bir yazarlık eserini temsil eder. Amaçları için
+      Bu Lisansın Türev Çalışmaları, kalan işleri içermeyecektir.
+      Arayüzlerden ayrılabilir, ya da sadece arayüze bağlanabilir (ya da ismine bağlanır),
+      Çalışma ve Türev Çalışmaları.
+
+      "Katkı", dahil olmak üzere herhangi bir yazarlık çalışması anlamına gelir.
+      İşin orijinal versiyonu ve herhangi bir değişiklik veya ekleme
+      Bu Çalışma veya Türev Çalışmaları, kasıtlı olarak
+      Çalışmaya telif hakkı sahibi tarafından dahil edilmek üzere Lisans Veren'e gönderildi
+      veya adına sunma yetkisi olan bir kişi veya tüzel kişi
+      telif hakkı sahibi. Bu tanımın amaçları için "gönderildi"
+      gönderilen her türlü elektronik, sözlü veya yazılı iletişimdir.
+      bunlarla sınırlı olmamak üzere Lisans Veren veya temsilcilerine
+      Elektronik posta listelerinde iletişim, kaynak kod kontrol sistemleri,
+      ve tarafından veya tarafından yönetilen sorun izleme sistemleri
+      İşi tartışmak ve geliştirmek amacıyla Lisans Veren, ancak
+      Göze çarpan şekilde işaretlenmiş veya başka türlü anlaşılmayan iletişim
+      telif hakkı sahibi tarafından "Bir Katkı Değil" olarak yazılı olarak belirtilir.
+
+      "Katılımcı" Lisans Veren ve herhangi bir kişi veya Tüzel Kişilik anlamına gelir
+      Lisans Veren tarafından bir Katkıda bulunulduğu ve
+      Daha sonra İşe dahil edilmiştir.
+
+   2. Telif Hakkı Lisansı Verilmesi. Şartlarına ve koşullarına tabi
+      Bu Lisans, her Katılımcı, size sürekli olarak bağışta bulunur.
+      dünya çapında, münhasır olmayan, ücretsiz, telifsiz, geri alınamaz
+      Telif hakkı lisansı üretmek, üretmek,
+      Herkese açık olarak gösterme, kamuya açık yapma, alt lisans verme ve dağıtma
+      Kaynak veya Nesne formunda iş ve benzeri Türev Çalışmaları.
+
+   3. Patent Ruhsatı Verilmesi. Şartlarına ve koşullarına tabi
+      Bu Lisans, her Katılımcı, size sürekli olarak bağışta bulunur.
+      dünya çapında, münhasır olmayan, ücretsiz, telifsiz, geri alınamaz
+      (bu bölümde belirtilenler hariç), patent lisansı yapmış, yapmış,
+      Çalışmayı satmak, satmak, ithal etmek ve başka şekilde devretmek, kullanmak,
+      bu tür lisansın yalnızca lisanslanabilir patent talepleri için geçerli olduğu hallerde
+      Böyle bir Katılımcı tarafından zorunlu olarak ihlal edildi
+      Katkı (lar) tek başına ya da Katkı (lar) ın birleşimi ile
+      Bu Katkının / katkıların sunulduğu çalışmayla. Eğer sen
+      herhangi bir varlığa karşı patent davası açmak
+      Çalıştığını iddia eden bir davada çapraz iddia veya karşı dava
+      veya Çalışmaya dahil edilen bir Katkı doğrudan
+      ya da katkıda bulunan patent ihlali, daha sonra herhangi bir patent lisansı
+      Bu İş için bu Lisans kapsamında Size verilen
+      bu tarihten itibaren dava açılmıştır.
+
+   4. Yeniden dağıtım. Kopyalarını çoğaltabilir ve dağıtabilirsiniz.
+      Herhangi bir ortamda, ister işte olsun olmasın, İş veya Türev Çalışmaları
+      Değişiklikler ve Kaynak veya Nesne şeklinde
+      aşağıdaki koşulları yerine getirin:
+
+      (a) İşin herhangi bir başka alıcısını vermelisiniz veya
+          Türev, bu Lisansın bir kopyasını; ve
+
+      (b) Herhangi bir değiştirilmiş dosyanın öne çıkan bildirimlere neden olmasına neden olmalısınız.
+          dosyaları değiştirdiğini belirten; ve
+
+      (c) Herhangi bir Türev Çalışmanın Kaynak biçiminde tutulmalıdır.
+          Tüm telif hakkı, patent, ticari marka ve
+          İşin Kaynak formundan ilişkilendirme bildirimleri,
+          herhangi bir bölümüyle ilgili olmayan bildirimleri hariç tutmak
+          Türev Çalışmaları; ve
+
+      (d) Çalışmanın bir parçası olarak bir "BİLDİRİM" metin dosyası içeriyorsa
+          Dağıtım, sonra dağıttığınız Türev Çalışmaları
+          içerilen ilişkilendirme bildirimlerinin okunabilir bir kopyasını ekleyin
+          böyle olmayan BİLDİRİM dosyaları içinde olmayanlar
+          Türev Eserlerin herhangi bir bölümüne en az bir
+          Aşağıdaki yerlerden: dağıtılan bir BİLDİRİM metin dosyası içinde
+          Türev Eserlerin bir parçası olarak; Kaynak formunda veya
+          Türev Çalışmaları ile birlikte sunulması halinde belgeleme; veya,
+          Türev Çalışmaları tarafından üretilen bir ekranda
+          Bu tür üçüncü taraf bildirimleri normal olarak nerede görünürse görünür. İçerikler
+          BİLDİRİM dosyası sadece bilgilendirme amaçlıdır ve
+          Lisansı değiştirmeyin. Kendi ilişkilendirmenizi ekleyebilirsin
+          Yanınızda dağıttığınız Türev İşleri içindeki bildirimler
+          veya sağlanan Çalışmadan gelen NOTICE metnine ek olarak
+          böyle ek atıf bildirimleri yorumlanamaz
+          Lisansı değiştirmek gibi.
+
+      Kendi telif hakkı bildiriminizi değişikliklere ekleyebilir ve
+      ek veya farklı lisans şartları ve koşulları sağlayabilir
+      Değişikliklerinizin kullanımı, çoğaltılması veya dağıtımı için, veya
+      Bir bütün olarak bu tür Türev Çalışmaları için, kullanımınızı sağladı,
+      Çalışmanın çoğaltılması ve dağıtılması,
+      bu Lisansta belirtilen koşullar.
+
+   5. Katkıların Sunulması. Aksi açıkça ifade etmedikçe,
+      Çalışmaya dahil edilmek üzere kasıtlı olarak gönderilen herhangi bir Katkı
+      Sizin tarafınızdan Lisans Veren tarafa aittir.
+      Bu Lisans, herhangi bir ek şart veya koşul olmaksızın.
+      Yukarıdakilere bakılmaksızın, burada hiçbir şey yerini alacak veya değiştirmeyecektir.
+      icra ettiğiniz herhangi bir lisans sözleşmesinin şartları
+      Lisans Veren ile bu gibi Katkılar hakkında.
+
+   6. Ticari Markalar. Bu Lisans, ticareti kullanmak için izin vermemektedir.
+      Lisans Verenin isimleri, ticari markaları, hizmet markaları veya ürün adları,
+      Tanımlamada makul ve geleneksel kullanım için gerekli olan hariç
+      İşin kaynağı ve NOTICE dosyasının içeriği çoğaltılır.
+
+   7. Garanti Feragatnamesi. Geçerli yasa veya
+      Yazılı olarak kabul edilen Lisans Veren, İşi (ve
+      Katkıda bulunanlar, "OLDUĞU GİBİ" BASİT üzerinde
+      HERHANGİ BİR GARANTİ VEYA KOŞULLARI olmayan, ya ifade veya
+      herhangi bir sınırlama olmaksızın, herhangi bir garanti veya koşul dahil, ima edilen
+      TITLE, TİCARİ ELVERİŞLİLİK, SATILABİLİRLİK VEYA BAŞVURU
+      ÖZEL AMAÇ. Belirlemek için yalnızca siz sorumlusunuz
+      Çalışmayı kullanmanın veya yeniden dağıtmanın uygunluğunu ve varsayalım
+      Bu Lisans kapsamında izinler uygulamanızla ilişkili riskler.
+
+   8. Sorumluluğun Sınırlandırılması. Hiçbir durumda ve hiçbir yasal teori altında,
+      haksız fiil (ihmal dahil), sözleşme veya başka bir şekilde,
+      yürürlükteki yasalar gerektirmedikçe (kasıtlı ve kaba bir şekilde)
+      ihmalkar fiiller) veya yazılı olarak kabul edilmiş,
+      Doğrudan, dolaylı, özel de dahil olmak üzere, zararlardan Size sorumludur,
+      herhangi bir karakterin tesadüfi veya sonuç olarak ortaya çıkan zararları
+      Bu Lisansın sonucu veya kullanım dışı veya kullanım dışı
+      İş (şerefiye kaybı için verilen zararlar dahil ancak bunlarla sınırlı olmamak kaydıyla,
+      iş durması, bilgisayar hatası veya arızası, ya da herhangi bir
+      Diğer ticari zararlar veya kayıplar)
+      Bu tür zararların olasılığı konusunda tavsiyede bulunulmuştur.
+
+   9. Garanti veya Ek Yükümlülüğü Kabul Etme. Yeniden dağıtılması sırasında
+      İş veya Türev Çalışmaları, sunmayı tercih edebilirsiniz,
+      ve destek, garanti, tazminat kabulü için bir ücret talep etmek,
+      veya buna bağlı diğer yükümlülük yükümlülükleri ve / veya hakları
+      Lisans. Ancak, bu tür yükümlülükleri kabul ederken, yalnızca
+      Kendi adına ve kendi sorumluluğunuzda, adına değil
+      Diğer Katkıda Bulunanların ve yalnızca siz tazmin etmeyi kabul ederseniz,
+      Her bir Katkıyı savunmak ve herhangi bir sorumluluk için zararsız tutmak
+      Nedeniyle, bu tür Katılımcılara karşı ileri sürülen iddialar veya iddialar
+      böyle bir garanti veya ek yükümlülüğü kabul ettiğinizden.
+
+   ŞART VE KOŞULLARIN SONU
+
+   EK: Apache Lisansını işinize nasıl uygulayın.
+
+      Apache Lisansını işinize uygulamak için aşağıdakileri ekleyin:
+      "{}" köşeli parantez içine alınmış alanlar ile
+      kendi tanımlayıcı bilgileriniz ile değiştirilir. (Dahil etmeyin
+      parantezler!) Metin uygun şekilde eklenmelidir
+      dosya formatı için sözdizimi yorumlayın. Bunu da tavsiye ediyoruz
+      dosya veya sınıf adı ve amaç açıklaması
+      Daha kolay için telif hakkı bildirimi olarak aynı "basılı sayfa"
+      üçüncü taraf arşivlerinde tanımlama.
+
+   Telif Hakkı 2017 Python Yazılım Vakfı
+
+   Apache Lisansı, Sürüm 2.0 ("Lisans") altında lisanslıdır;
+   Bu dosyayı Lisansa uygun olarak kullanamazsınız.
+   Lisansın bir kopyasını alabilirsiniz.
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Yürürlükteki yasaların gerektirmediği veya yazılı olarak kabul edilmediği sürece, yazılım
+   Lisans kapsamında dağıtılan "OLDUĞU GİBİ" BASIS
+   HERHANGİ BİR GARANTİ VEYA KOŞULLARI olmayan, açık veya zımni.
+   Belirli dil yönetimi izinleri için lisansa bakın ve
+   Lisans kapsamındaki sınırlamalar.
